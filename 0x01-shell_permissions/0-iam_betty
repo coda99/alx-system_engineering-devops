@@ -1,2 +1,2 @@
 #!/bin/bash
-switch betty
+su betty
