@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir chmod 7,g+rx,o+x /my_dir
+mkdir my_dir chmod 7,g+,o+x /my_dir
